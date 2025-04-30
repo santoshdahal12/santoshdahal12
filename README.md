@@ -14,13 +14,6 @@ Senior Software Engineer eager to learn and build software,  expertise in distri
 
 🌟  FastAPI, Gemini, Vectors in PostgreSQL, EKS, Nginx
 
-**Personal stretch goals six months**
-1. [deplister](https://github.com/santoshdahal12/deplister) solidify, keep adding more tools support, look for contributions,  and highlight why it's needed even where there are tons of opensource tools - **Opensource**
-2. Start off a project for FastAPI to help integrate API with AWS resources. Start with Secret rotation first. Something Spring has https://github.com/awspring/spring-cloud-aws - **Opensource**
-3. Continue blogging on http://santoshdahal.com/, explore more on LLMs, use cases in work
-4. Explore Virtual Threads in Java 21 and the relevance of Spring Reactive.
-
-
 ## 2024 Highlight
 🌟 Contributed to Spring Cloud Circuit Breaker , adding time limiter for circuitbreaker groups and instances ([PR #203](https://github.com/spring-cloud/spring-cloud-circuitbreaker/pull/203)).
 

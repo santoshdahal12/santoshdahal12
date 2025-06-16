@@ -4,6 +4,10 @@ Senior Software Engineer eager to learn and build software,  expertise in distri
 
 ## 2025 Highlight
 
+**April -Present** UMMS (GallionHealth)
+
+🌟  Full-time at a startup, UMMS (GallionHealth). Also building a side project in stealth focused on local service access, and casually exploring a community-driven app for music learners.
+
 **Dec 16-Feb 18** Verizon
 
 🌟  Spearheaded and led Backend API, DB design, setup AWS Infrastructure, deployment and ETL automation for data pull/sync for Verizon Design System

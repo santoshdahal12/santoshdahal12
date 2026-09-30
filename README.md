@@ -2,7 +2,7 @@
 
 Senior Software Engineer eager to learn and build software,  expertise in distributed systems, microservices architecture, and cloud infrastructure. Passionate about building scalable enterprise solutions and contributing to open-source projects.
 
-## 2025 Highlight
+## 2025-Present Highlight
 
 **April -Present** UMMS (GallionHealth)
 

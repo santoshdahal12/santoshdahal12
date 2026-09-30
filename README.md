@@ -23,7 +23,7 @@ Senior Software Engineer eager to learn and build software,  expertise in distri
 
 🌟 As a software engineer consultant, developed and implemented custom OpenRewrite automation suite for systematic migration of Spring Boot 2.5 to 3.3 and Java 8 to 17 applications
 
-🌟 As a senior platform engineer for bank, helped enforcing software development best practices , modernize delivery pipelines using CI/CD, build monitoring applications, open source software compliance enforcement and monitoring
+🌟 As a senior platform engineer for bank, helped enforcing software development best practices , modernize delivery pipelines using CI/CD, open source software compliance enforcement and monitoring
 
 
 ## Tech Stack
